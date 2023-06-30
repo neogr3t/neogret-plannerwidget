@@ -1,9 +1,8 @@
-Here's a write-up for the FinanceTrackerWidget:
+Here's a write-up for the FinanceTrackerWidget which I have added on the Planner App:
 
 The FinanceTrackerWidget is a powerful tool within the Planner App that enables users to effectively track and manage their finances. This custom widget provides an intuitive interface for recording income and expenses, calculating totals, and maintaining a clear overview of financial activities.
 
 ## Explanation of Finance Tracker Widget
-'Usage'
 The FinanceTrackerWidget offers several key advantages for users:
 
 - Streamlined Financial Management:
