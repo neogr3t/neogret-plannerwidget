@@ -73,7 +73,7 @@ const FinanceTrackerWidget = () => {
 
   return (
     <div className="finance-tracker-widget">
-      <h3>Finance Tracker</h3>
+      <h3>Finance Tracker Widget</h3>
       <br />
       <div className="add-transaction">
         <div className="input-container">
@@ -106,7 +106,7 @@ const FinanceTrackerWidget = () => {
             <select
               value={type}
               onChange={(e) => setType(e.target.value)}
-              style={{ color: type === 'expense' ? 'red' : type === 'income' ? 'green' : 'black' }}
+              style={{ color: 'black' }}
             >
               <option value="">Select Type</option>
               <option value="income">Income</option>
