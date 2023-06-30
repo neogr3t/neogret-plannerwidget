@@ -141,6 +141,8 @@ line-height: 1.125em;
   background-color: #e6e6e6;
 }
 
+/*Finance Tracker styles*/
+
 .finance-tracker-widget {
   font-family: Arial, sans-serif;
   padding: 20px;
@@ -150,7 +152,6 @@ line-height: 1.125em;
 .finance-tracker-widget h3 {
   margin-top: 0;
 }
-
 
 .add-transaction {
   margin-bottom: 20px;
@@ -174,7 +175,7 @@ line-height: 1.125em;
   padding: 5px;
   font-size: 14px;
   width: 120px; 
-  background-color: gray;
+  background-color: rgb(161, 155, 155);
 }
 
 

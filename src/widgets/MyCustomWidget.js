@@ -106,7 +106,7 @@ const FinanceTrackerWidget = () => {
             <select
               value={type}
               onChange={(e) => setType(e.target.value)}
-              style={{ color: 'black' }}
+              style={{ color: type === 'expense' ? 'red' : type === 'income' ? 'green' : 'black' }}
             >
               <option value="">Select Type</option>
               <option value="income">Income</option>
